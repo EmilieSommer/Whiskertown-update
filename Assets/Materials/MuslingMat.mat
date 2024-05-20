@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MuslingMat
+  m_Shader: {fileID: 4800000, guid: 85f442c134ba84cec8a7a95083edc0c3, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _TargetColor3
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Toleranc14: 0.001
+    - _Tolerance: 0.08
+    - _Tolerance1: 0.42
+    - _Tolerance10: 0.001
+    - _Tolerance11: 0.001
+    - _Tolerance12: 0.001
+    - _Tolerance13: 0.001
+    - _Tolerance15: 0.001
+    - _Tolerance16: 0.001
+    - _Tolerance2: 0.26
+    - _Tolerance3: 0.001
+    - _Tolerance4: 0.001
+    - _Tolerance5: 0.001
+    - _Tolerance6: 0.001
+    - _Tolerance7: 0.001
+    - _Tolerance8: 0.001
+    - _Tolerance9: 0.001
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OriginalColor: {r: 1, g: 0.28627452, b: 0.28235295, a: 1}
+    - _OriginalColor1: {r: 0.9960785, g: 0.27058825, b: 0, a: 1}
+    - _OriginalColor10: {r: 0.08627451, g: 0.09411766, b: 0.9960785, a: 1}
+    - _OriginalColor11: {r: 0.38823533, g: 0, b: 0.9960785, a: 1}
+    - _OriginalColor12: {r: 0.9960785, g: 0.003921569, b: 0.5372549, a: 1}
+    - _OriginalColor13: {r: 0.5176471, g: 0.83921576, b: 0.9960785, a: 1}
+    - _OriginalColor14: {r: 0.9960785, g: 0.6039216, b: 0.5176471, a: 1}
+    - _OriginalColor15: {r: 0.78823537, g: 0.007843138, b: 0.9960785, a: 1}
+    - _OriginalColor16: {r: 0.9921569, g: 0.8980393, b: 0.5176471, a: 1}
+    - _OriginalColor17: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor18: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor2: {r: 1, g: 0.5294118, b: 0, a: 1}
+    - _OriginalColor3: {r: 0.9960785, g: 0.93725497, b: 0.011764707, a: 1}
+    - _OriginalColor4: {r: 0.007843138, g: 1, b: 0.9490197, a: 1}
+    - _OriginalColor5: {r: 0.9960785, g: 0, b: 0.37254903, a: 1}
+    - _OriginalColor6: {r: 0.5176471, g: 0.9960785, b: 0.5647059, a: 1}
+    - _OriginalColor7: {r: 0.7372549, g: 0.5137255, b: 0.9960785, a: 1}
+    - _OriginalColor8: {r: 0.007843138, g: 1, b: 0.34509805, a: 1}
+    - _OriginalColor9: {r: 0, g: 0.46274513, b: 0.9960785, a: 1}
+    - _TargetColor: {r: 0.08456975, g: 0.509434, b: 0.021626905, a: 1}
+    - _TargetColor1: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor10: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor11: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor12: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor13: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor14: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor15: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor16: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor17: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor18: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor2: {r: 0.5845978, g: 0.8113208, b: 0.28702387, a: 1}
+    - _TargetColor3: {r: 0.7169812, g: 0.15254916, b: 0, a: 1}
+    - _TargetColor4: {r: 0.36990672, g: 0.8301887, b: 0.3250267, a: 1}
+    - _TargetColor5: {r: 1, g: 0.8388512, b: 0.19339621, a: 1}
+    - _TargetColor6: {r: 0.26321647, g: 0.8584906, b: 0.7741601, a: 1}
+    - _TargetColor7: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+    - _TargetColor8: {r: 0.09211465, g: 0.8197192, b: 0.8490566, a: 1}
+    - _TargetColor9: {r: 0.25882354, g: 0.1137255, b: 0.07450981, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ColoringPen
+  - Paintable
+  - Button
+  - Button1
+  - Button2
+  - Button3
+  - Border
+  - Cloud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - RayCast
+  - Water
+  - UI
+  - Cat Layer
+  - Cloud
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3083657861
+    locked: 0
+  - name: RayCast
+    uniqueID: 3125166917
+    locked: 0
+  - name: Tumble
+    uniqueID: 2890569505
+    locked: 0

@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8555120534219095799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638497178408553850
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-8321587412658892019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cat_sounds/Meow
+  m_EditorClassIdentifier: 
+  Path: event:/cat_sounds/Meow
+  Guid:
+    Data1: -447409239
+    Data2: 1244648450
+    Data3: -189914946
+    Data4: -1641656014
+  Banks:
+  - {fileID: -8555120534219095799}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 950
+--- !u!114 &-6917940443441936956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMOD/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638497178408562843
+  FileSizes:
+  - Name: 
+    Value: 1038
+  Exists: 1
+--- !u!114 &-3768830130738886793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/music/whiskertown_main_music
+  m_EditorClassIdentifier: 
+  Path: event:/music/whiskertown_main_music
+  Guid:
+    Data1: 327087945
+    Data2: 1091946001
+    Data3: -1568549999
+    Data4: 1221290615
+  Banks:
+  - {fileID: -8555120534219095799}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 113000
+--- !u!114 &-3747814232338740529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sound_efx/clothes
+  m_EditorClassIdentifier: 
+  Path: event:/sound_efx/clothes
+  Guid:
+    Data1: 1863393909
+    Data2: 1163891888
+    Data3: -1890783823
+    Data4: 1173882699
+  Banks:
+  - {fileID: -8555120534219095799}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 500
+--- !u!114 &-3059890594672752024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/cat_sounds/Pet
+  m_EditorClassIdentifier: 
+  Path: event:/cat_sounds/Pet
+  Guid:
+    Data1: -1485121312
+    Data2: 1309455949
+    Data3: -894022518
+    Data4: 1427160038
+  Banks:
+  - {fileID: -8555120534219095799}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3124
+--- !u!114 &-179799837076710891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/sound_efx/tumble_pop
+  m_EditorClassIdentifier: 
+  Path: event:/sound_efx/tumble_pop
+  Guid:
+    Data1: -1572732771
+    Data2: 1148883046
+    Data3: 1181807015
+    Data4: 2074455031
+  Banks:
+  - {fileID: -8555120534219095799}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 768
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -6917940443441936956}
+  - {fileID: -8555120534219095799}
+  EditorEvents:
+  - {fileID: -8321587412658892019}
+  - {fileID: -3059890594672752024}
+  - {fileID: -179799837076710891}
+  - {fileID: -3747814232338740529}
+  - {fileID: -3768830130738886793}
+  - {fileID: 7711443972008046916}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -8555120534219095799}
+  StringsBanks:
+  - {fileID: -6917940443441936956}
+  cacheTime: 638497178408562843
+  cacheVersion: 131617
+--- !u!114 &7711443972008046916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/music/whiskertown_design_music
+  m_EditorClassIdentifier: 
+  Path: event:/music/whiskertown_design_music
+  Guid:
+    Data1: -476597684
+    Data2: 1124693233
+    Data3: -1063475046
+    Data4: 1165084105
+  Banks:
+  - {fileID: -8555120534219095799}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 49000

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PuslingMat
+  m_Shader: {fileID: 4800000, guid: 85f442c134ba84cec8a7a95083edc0c3, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _OriginalColor1
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Tolerance: 0.12
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _OriginalColor1: {r: 0.007843138, g: 1, b: 0.34509805, a: 1}
+    - _OriginalColor10: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor11: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor12: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor13: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor14: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor15: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor16: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor17: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor18: {r: 1, g: 1, b: 1, a: 1}
+    - _OriginalColor2: {r: 0.007843138, g: 1, b: 0.9490197, a: 1}
+    - _OriginalColor3: {r: 1, g: 0.27058825, b: 0, a: 1}
+    - _OriginalColor4: {r: 0.003921569, g: 0.46274513, b: 1, a: 1}
+    - _OriginalColor5: {r: 0.9960785, g: 0.003921569, b: 0.5372549, a: 1}
+    - _OriginalColor6: {r: 0.7960785, g: 0.078431375, b: 0.98823535, a: 1}
+    - _OriginalColor7: {r: 1, g: 0.89019614, b: 0.5176471, a: 1}
+    - _OriginalColor8: {r: 1, g: 0.5294118, b: 0, a: 1}
+    - _OriginalColor9: {r: 0.08235294, g: 0.098039225, b: 0.98823535, a: 1}
+    - _TargetColor1: {r: 0.3490566, g: 0.3490566, b: 0.3490566, a: 1}
+    - _TargetColor10: {r: 0, g: 0, b: 0, a: 1}
+    - _TargetColor11: {r: 1, g: 0, b: 0, a: 1}
+    - _TargetColor12: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor13: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor14: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor15: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor16: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor17: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor18: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor2: {r: 0, g: 0, b: 0, a: 1}
+    - _TargetColor3: {r: 1, g: 0.6462264, b: 0.6462264, a: 1}
+    - _TargetColor4: {r: 0, g: 0, b: 0, a: 1}
+    - _TargetColor5: {r: 1, g: 0, b: 0, a: 1}
+    - _TargetColor6: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor7: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor8: {r: 0.8679245, g: 0.25792095, b: 0.25792095, a: 1}
+    - _TargetColor9: {r: 1, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
